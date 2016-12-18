@@ -6,32 +6,32 @@ Before starting with web development, it's important to understand [the technolo
 
 __*List of contents:*__
 
-* [[Git and GitHub|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#git-and-github]]
-    + [[Git|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#git]]
-    + [[GitHub|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#github]]
-* [[JavaScript|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#javascript]]
-    + [[JS basics|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#javascript-basics]]
-    + [[Debugging JS in browser|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#debugging-javascript-in-browser]]
-    + [[AJAX|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#ajax]]
-    + [[jQuery|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#jquery]]
-    + [[Large scale web applications|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#large-scale-web-applications]]
-* [[HTML and CSS|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#html-and-css]]
-    + [[HTML|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#html]]
-    + [[CSS|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#css]]
-    + [[Bootstrap|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#bootstrap]]
-* [[Node.js and npm|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#bootstrap]]
-    + [[Node.js|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#nodejs]]
-    + [[npm|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#npm]]
-* [[D3js|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#d3js]]
-    + [[Basics|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#d3js-basics]]
-    + [[Advanced D3js|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#advanced-d3js]]
-* [[AngularJs|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#angularjs]]
-    + [[AngularJs Basics|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#angularjs-basics]]
-    + [[Advanced AngularJs|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#advanced-angularjs]]
-* [[Design and UX|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#design-and-ux]]
-    + [[Basics of web design|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#basics-of-web-design]]
-    + [[UX and UI|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#ux-and-ui]]
-    + [[Typography|https://github.com/SOCR/SOCRAT/wiki/Web-development-guides#typography]]
+* [Git and GitHub](https://github.com/SOCR/socr-tutorials/tree/master#git-and-github)
+    + [Git](https://github.com/SOCR/socr-tutorials/tree/master#git)
+    + [GitHub](https://github.com/SOCR/socr-tutorials/tree/master#github)
+* [JavaScript](https://github.com/SOCR/socr-tutorials/tree/master#javascript)
+    + [JS basics](https://github.com/SOCR/socr-tutorials/tree/master#javascript-basics)
+    + [Debugging JS in browser](https://github.com/SOCR/socr-tutorials/tree/master#debugging-javascript-in-browser)
+    + [AJAX](https://github.com/SOCR/socr-tutorials/tree/master#ajax)
+    + [jQuery](https://github.com/SOCR/socr-tutorials/tree/master#jquery)
+    + [Large scale web applications](https://github.com/SOCR/socr-tutorials/tree/master#large-scale-web-applications)
+* [HTML and CSS](https://github.com/SOCR/socr-tutorials/tree/master#html-and-css)
+    + [HTML](https://github.com/SOCR/socr-tutorials/tree/master#html)
+    + [CSS](https://github.com/SOCR/socr-tutorials/tree/master#css)
+    + [Bootstrap](https://github.com/SOCR/socr-tutorials/tree/master#bootstrap)
+* [Node.js and npm](https://github.com/SOCR/socr-tutorials/tree/master#bootstrap)
+    + [Node.js](https://github.com/SOCR/socr-tutorials/tree/master#nodejs)
+    + [npm](https://github.com/SOCR/socr-tutorials/tree/master#npm)
+* [D3js](https://github.com/SOCR/socr-tutorials/tree/master#d3js)
+    + [Basics](https://github.com/SOCR/socr-tutorials/tree/master#d3js-basics)
+    + [Advanced D3js](https://github.com/SOCR/socr-tutorials/tree/master#advanced-d3js)
+* [AngularJs](https://github.com/SOCR/socr-tutorials/tree/master#angularjs)
+    + [AngularJs Basics](https://github.com/SOCR/socr-tutorials/tree/master#angularjs-basics)
+    + [Advanced AngularJs](https://github.com/SOCR/socr-tutorials/tree/master#advanced-angularjs)
+* [Design and UX](https://github.com/SOCR/socr-tutorials/tree/master#design-and-ux)
+    + [Basics of web design](https://github.com/SOCR/socr-tutorials/tree/master#basics-of-web-design)
+    + [UX and UI](https://github.com/SOCR/socr-tutorials/tree/master#ux-and-ui)
+    + [Typography](https://github.com/SOCR/socr-tutorials/tree/master#typography)
 
 ***
 
