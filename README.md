@@ -125,6 +125,8 @@ __*List of contents:*__
 [Mastering CSS Principles: A Comprehensive Guide](http://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 
 ### Bootstrap
+[W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap/)
+
 [Decoupling HTML From CSS](http://www.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)
 
 [Getting started with Bootstrap](http://getbootstrap.com/getting-started/)
